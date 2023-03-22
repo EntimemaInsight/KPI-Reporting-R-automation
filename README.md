@@ -3,7 +3,7 @@ This project contains R scripts that automate the transposition of SQL files to 
 
 ## Table of Contents
 * Description
-File Structure
-Requirements
-Usage
-License
+* File Structure
+* Requirements
+* Usage
+* License
