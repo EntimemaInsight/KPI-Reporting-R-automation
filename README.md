@@ -18,19 +18,19 @@ KPI-Reporting-R-automation
 
 I. MS SQL Queries:
    1. ApprovedClients_ES.sql
- ActivatedClients_ES.sql
- Withdrawal_Amounts_ES_PIVOT.sql
+   2. ActivatedClients_ES.sql
+   3. Withdrawal_Amounts_ES_PIVOT.sql
 
-II. R Scripts/
- function1.R
- function2.R
-function3.R
- Master_SQL_Load.R
-
+II. R-automation-scripts
+   1. SQL_ApprovedClients_ES_Load.R
+   2. SQL_ActivatedClients_ES_Load.R
+   3. SQL_Withdrawal_Amounts_ES_Load.R
+   4. Master_SQL_Load.R
+   
 III. Output
-KPI_Report_ES_03.xlsx
+   1. KPI_Report_ES_03.xlsx
 
-IV. 
+IV. ES_KPI_Daily_Summary.xlsx
 
 V. README.md
 
