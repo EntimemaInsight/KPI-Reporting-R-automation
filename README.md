@@ -35,4 +35,4 @@ IV. ES_KPI_Daily_Summary.xlsx
 V. README.md
 
 ## Usage 
-The data used in this project is entirely fictional and intended solely for demonstration purposes. However, it's important to note that SQL files don't provide access to external customers. These SQL files are designed for for presentatio purposes.
+The data used in this project is entirely fictional and intended solely for demonstration purposes. However, it's important to note that SQL files don't provide access to external customers. These SQL files are designed for presentation purposes.
