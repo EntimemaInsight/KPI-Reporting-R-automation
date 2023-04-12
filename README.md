@@ -1,6 +1,9 @@
 # KPI-Reporting-R-automation
 This project contains R scripts that automate the transposition of SQL files to an Excel file with 3 sheets named KPI_Report_ES_03. Additionally, the project generates an additional file named ES_KPI_Daily_Summary, which summarizes the information from KPI_Report_ES_03 on a daily basis. The Daily KPI Summary file provides an overview of the performance metrics for the day and serves as a quick reference for stakeholders.
 
+## Usage 
+The data used in this project is entirely fictional and intended solely for demonstration purposes. However, it's important to note that SQL files don't provide access to external customers. These SQL files are designed for presentation purposes.
+
 ## Table of Contents
 * Description
 * Project Structure
@@ -38,5 +41,4 @@ IV. ES_KPI_Daily_Summary.xlsx
 
 V. README.md
 
-## Usage 
-The data used in this project is entirely fictional and intended solely for demonstration purposes. However, it's important to note that SQL files don't provide access to external customers. These SQL files are designed for presentation purposes.
+
