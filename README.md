@@ -41,4 +41,6 @@ IV. ES_KPI_Daily_Summary.xlsx
 
 V. README.md
 
+## Credits
 
+This project was created by Aleksandar Dimitrov and is licensed under the MIT License.
