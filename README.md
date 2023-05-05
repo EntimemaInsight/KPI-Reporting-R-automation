@@ -43,4 +43,5 @@ V. README.md
 
 ## Credits
 
-This project was created by Aleksandar Dimitrov and is licensed under the MIT License.
+This project was created by Aleksandar Dimitrov and is licensed under the MIT License. 
+If you have any questions or comments, feel free to contact me at alexi.zein@gmail.com.
